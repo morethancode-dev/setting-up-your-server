@@ -6,5 +6,5 @@
 
 ## Мои социальные сети
 - 📱 Telegram: https://t.me/morethancode_sigma
-- ▶︎  YouTube: https://www.youtube.com/channel/UCCCBBv1vC46bDLrL0jV4lCQ
+- ▶︎  YouTube: www.youtube.com/@morethancode_sigma
 - 🔥 Boosty (контент раньше): https://boosty.to/morethancode
