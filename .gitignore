@@ -1,0 +1,16 @@
+# Node.js зависимости
+node_modules/
+
+# системные файлы
+.DS_Store
+Thumbs.db
+
+# временные файлы редакторов/IDE
+*.swp
+*.log
+.vscode/
+.idea/
+
+# бэкапные файлы
+*~
+*.bak
