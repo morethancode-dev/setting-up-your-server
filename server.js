@@ -35,6 +35,10 @@ const server = http.createServer((req, res) => {
             res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
             res.end(data);
         });
+    } else if (req.url === '/api/motivation' && req.method === 'GET') {
+        // Наше новое API
+        res.writeHead(200, { 'Content-Type': 'application/json; charset=utf-8' });
+        res.end(JSON.stringify({ message: "У тебя всё получится! p.s More than code" }));
     } else {
         // Для всех остальных путей - 404
         res.writeHead(404, { 'Content-Type': 'text/plain; charset=utf-8' });
